@@ -1,0 +1,36 @@
+2021-09-27T08:55:07.837801532 0.023986s notice: Recursively removing directory /home/bacancy/Complete Rails/spreadsheets/rethinkdb_data/tmp
+2021-09-27T08:55:07.842691167 0.028881s notice: Initializing directory /home/bacancy/Complete Rails/spreadsheets/rethinkdb_data
+2021-09-27T08:55:07.843027772 0.029212s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/bacancy/Complete Rails/spreadsheets/rethinkdb_data' did not already exist or is empty.)
+2021-09-27T08:55:07.843095425 0.029279s notice: Running rethinkdb 2.4.1~0focal (CLANG 10.0.0 )...
+2021-09-27T08:55:07.844764457 0.030950s notice: Running on Linux 5.10.0-1045-oem x86_64
+2021-09-27T08:55:07.844828317 0.031012s notice: Loading data from directory /home/bacancy/Complete Rails/spreadsheets/rethinkdb_data
+2021-09-27T08:55:07.868152393 0.054336s info: Automatically using cache size of 5248 MB
+2021-09-27T08:55:07.869529557 0.055713s notice: Listening for intracluster connections on port 29015
+2021-09-27T08:55:07.872543790 0.058728s notice: Listening for client driver connections on port 28015
+2021-09-27T08:55:07.872589962 0.058774s notice: Listening for administrative HTTP connections on port 8080
+2021-09-27T08:55:07.872591135 0.058775s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2021-09-27T08:55:07.872592299 0.058776s notice: Listening on driver addresses: 127.0.0.1, ::1
+2021-09-27T08:55:07.872595278 0.058779s notice: Listening on http addresses: 127.0.0.1, ::1
+2021-09-27T08:55:07.872597865 0.058782s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2021-09-27T08:55:07.872600521 0.058784s notice: Server ready, "YashSanghavi_hvd" de4fa15d-a7e0-414c-98e4-01e7b5b3b363
+2021-09-27T08:55:33.099306326 25.285491s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2021-09-27T08:55:33.099472915 25.285657s notice: Shutting down client connections...
+2021-09-27T08:55:33.099571263 25.285755s notice: All client connections closed.
+2021-09-27T08:55:33.099575104 25.285759s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2021-09-27T08:55:33.101362796 25.287547s notice: Storage engine shut down.
+2021-09-27T08:55:36.405420915 0.025116s notice: Running rethinkdb 2.4.1~0focal (CLANG 10.0.0 )...
+2021-09-27T08:55:36.408213507 0.027905s notice: Running on Linux 5.10.0-1045-oem x86_64
+2021-09-27T08:55:36.408305603 0.027996s notice: Loading data from directory /home/bacancy/Complete Rails/spreadsheets/rethinkdb_data
+2021-09-27T08:55:36.421880678 0.041571s info: Automatically using cache size of 5224 MB
+2021-09-27T08:55:36.422721176 0.042411s notice: Listening for intracluster connections on port 29015
+2021-09-27T08:55:36.424610554 0.044301s notice: Listening for client driver connections on port 28015
+2021-09-27T08:55:36.424668693 0.044359s notice: Listening for administrative HTTP connections on port 8080
+2021-09-27T08:55:36.424670948 0.044361s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2021-09-27T08:55:36.424672584 0.044363s notice: Listening on driver addresses: 127.0.0.1, ::1
+2021-09-27T08:55:36.424678008 0.044368s notice: Listening on http addresses: 127.0.0.1, ::1
+2021-09-27T08:55:36.424683241 0.044373s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2021-09-27T08:55:36.424688614 0.044379s notice: Server ready, "YashSanghavi_hvd" de4fa15d-a7e0-414c-98e4-01e7b5b3b363
+2021-09-27T08:58:57.578563055 201.198253s info: Table 270acccd-51a5-4d5a-b8db-9b746c832f1a: Starting a new Raft election for term 1.
+2021-09-27T08:58:57.578809494 201.198500s info: Table 270acccd-51a5-4d5a-b8db-9b746c832f1a: Added replica on this server.
+2021-09-27T08:58:57.581562113 201.201253s info: Table 270acccd-51a5-4d5a-b8db-9b746c832f1a: This server is Raft leader for term 1. Latest log index is 0.
+2021-09-27T08:58:58.067465889 201.687156s info: Table 270acccd-51a5-4d5a-b8db-9b746c832f1a: Configuration is changing.
